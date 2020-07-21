@@ -22,12 +22,12 @@ body {
 
 ::selection {
     color: #fff;
-    background: #CC4646;
+    background: #459083;
 }
 
 ::-moz-selection {
     color: #fff;
-    background: #CC4646;
+    background: #459083;
 }
 
 p {
@@ -73,7 +73,7 @@ p {
 }
 
 a {
-    color: #CC4646;
+    color: #459083;
     text-decoration: none;
     text-shadow: none;
     -webkit-transition: all 0.2s linear;
@@ -84,7 +84,7 @@ a {
 }
 
 a:hover {
-    color: #DF3927;
+    color: #8f9993;
     text-decoration: none;
 }
 
@@ -94,11 +94,11 @@ a:hover {
 }
 
 .btn:hover {
-    background: #E24040;
+    background: #8f9993;
 }
 
 .btn-primary {
-    background: #CC4646;
+    background: #459083;
 }
 
 .form-control {
@@ -124,7 +124,7 @@ a:hover {
     bottom: 20px;
     right: 20px;
     z-index: 5;
-    background: #CC4646;
+    background: #459083;
 }
 
 .topHome .fa-2x {
@@ -138,16 +138,16 @@ a:hover {
 .header {
     position: fixed;
     width: 100%;
-    background: #CC4646;
+    background: #459083;
     z-index: 50;
     border-radius: 0;
     top: 0px;
-    border-bottom: 1px solid #F57676;
+    border-bottom: 1px solid #284b45;
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: #CC4646;
-    background-color: #CC4646;
+    border-color: #459083;
+    background-color: #459083;
 }
 
 .header .navbar {
@@ -156,18 +156,18 @@ a:hover {
 }
 
 .navbar-inverse .navbar-toggle .icon-bar {
-    /*background-color: #CC4646;*/
-    ;
+    /*background-color: #459083;*/
+
 }
 
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
-    background: #CC4646;
+    background: #459083;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover,
 .navbar-inverse .navbar-nav>li>a:focus {
-    color: #CC4646;
+    color: #459083;
 }
 
 .navbar-inverse .navbar-toggle:hover .icon-bar {
@@ -175,7 +175,7 @@ a:hover {
 }
 
 .navbar-inverse .navbar-nav>li>a {
-    color: #FFB8B8;
+    color: #284b45;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover,
@@ -195,7 +195,7 @@ a:hover {
 /*.carousel-inner*/
 #myCarousel {
     margin-top: 50px;
-    border-bottom: 4px solid #CC4646;
+    border-bottom: 4px solid #459083;
 }
 
 .carousel-inner>.item {}
@@ -226,7 +226,7 @@ a:hover {
 
 .actionPanel {
     padding: 25px 0;
-    background: #CC4646;
+    background: #459083;
 }
 
 .actionPanel h3 {
@@ -234,7 +234,7 @@ a:hover {
 }
 
 .circle {
-    background: #CC4646;
+    background: #459083;
     height: 60px;
     width: 60px;
     border-radius: 35px;
@@ -248,7 +248,7 @@ a:hover {
     padding: 16px 15px;
     line-height: 18px;
     height: 50px;
-    /*color:#CC4646;*/
+    /*color:#459083;*/
     ;
 }
 
@@ -319,7 +319,7 @@ a:hover {
 }
 
 .page-section h2 {
-    color: #CC4646;
+    color: #459083;
 }
 
 .page-section p {
@@ -332,7 +332,7 @@ a:hover {
 }
 
 .darkBg .fa {
-    color: #CC4646;
+    color: #459083;
 }
 
 /*--- Banner ----*/
@@ -491,7 +491,7 @@ a:hover {
 }
 
 .progress .progress-bar {
-    background-color: #CC4646;
+    background-color: #459083;
 }
 
 /*Skills*/
@@ -509,7 +509,7 @@ a:hover {
     position: absolute;
     content: " ";
     width: 2px;
-    background-color: #CC4646;
+    background-color: #459083;
     left: 50%;
     margin-left: -1.5px;
 }
@@ -529,7 +529,7 @@ a:hover {
     top: 20px;
     left: 50%;
     margin-left: -25px;
-    background-color: #CC4646;
+    background-color: #459083;
     z-index: 36;
     border-top-right-radius: 50%;
     border-top-left-radius: 50%;
@@ -558,7 +558,7 @@ a:hover {
 }
 
 #timeline .timeline-badge.timeline-filter-movement a span {
-    color: #CC4646;
+    color: #459083;
     font-size: 1.3em;
     top: -1px;
 }
@@ -573,14 +573,14 @@ a:hover {
 }
 
 #timeline .timeline-badge.timeline-future-movement a span {
-    color: #CC4646;
+    color: #459083;
     font-size: .9em;
     top: 2px;
     left: 1px;
 }
 
 #timeline .timeline-movement {
-    border-bottom: dashed 1px #CC4646;
+    border-bottom: dashed 1px #459083;
     position: relative;
 }
 
@@ -627,7 +627,7 @@ a:hover {
 }
 
 #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul span.importo {
-    color: #e2001a;
+    color: #8f9993;
     font-size: 1.3em;
 }
 
@@ -676,7 +676,7 @@ a:hover {
 .team-member .member-img img {
     max-width: 250px;
     margin: 0 auto;
-    border: 1px solid #CC4646;
+    border: 1px solid #459083;
 }
 
 .team-member h4 {
@@ -762,12 +762,12 @@ nav#filter li {
 nav#filter a {
     padding: 4px 12px;
     line-height: 20px;
-    border: 1px solid #CC4646;
+    border: 1px solid #459083;
     text-decoration: none;
 }
 
 .current {
-    background: #CC4646;
+    background: #459083;
     color: #fff;
 }
 
