@@ -464,7 +464,7 @@ a:hover {
 /*parlex*/
 .bg-parlex {
     padding-top: 0px;
-    background-image: url('../images/000007.jpg');
+    background-image: url('../images/banner-bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -509,7 +509,7 @@ a:hover {
     position: absolute;
     content: " ";
     width: 2px;
-    background-color: #459083;
+    background-color: #777781;
     left: 50%;
     margin-left: -1.5px;
 }
