@@ -22,12 +22,12 @@ body {
 
 ::selection {
     color: #fff;
-    background: #459083;
+    background: #2A292E;
 }
 
 ::-moz-selection {
     color: #fff;
-    background: #459083;
+    background: #2A292E;
 }
 
 p {
@@ -73,7 +73,7 @@ p {
 }
 
 a {
-    color: #459083;
+    color: #2A292E;
     text-decoration: none;
     text-shadow: none;
     -webkit-transition: all 0.2s linear;
@@ -98,7 +98,7 @@ a:hover {
 }
 
 .btn-primary {
-    background: #459083;
+    background: #2A292E;
 }
 
 .form-control {
@@ -124,7 +124,7 @@ a:hover {
     bottom: 20px;
     right: 20px;
     z-index: 5;
-    background: #459083;
+    background: #2A292E;
 }
 
 .topHome .fa-2x {
@@ -138,16 +138,16 @@ a:hover {
 .header {
     position: fixed;
     width: 100%;
-    background: #459083;
+    background: #2A292E;
     z-index: 50;
     border-radius: 0;
     top: 0px;
-    border-bottom: 1px solid #284b45;
+    /* border-bottom: 1px solid #777781; */
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: #459083;
-    background-color: #459083;
+    border-color: #2A292E;
+    background-color: #2A292E;
 }
 
 .header .navbar {
@@ -156,18 +156,18 @@ a:hover {
 }
 
 .navbar-inverse .navbar-toggle .icon-bar {
-    /*background-color: #459083;*/
+    /*background-color: #2A292E;*/
 
 }
 
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
-    background: #459083;
+    background: #2A292E;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover,
 .navbar-inverse .navbar-nav>li>a:focus {
-    color: #459083;
+    color: #2A292E;
 }
 
 .navbar-inverse .navbar-toggle:hover .icon-bar {
@@ -175,7 +175,7 @@ a:hover {
 }
 
 .navbar-inverse .navbar-nav>li>a {
-    color: #284b45;
+    color: #777781;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover,
@@ -195,7 +195,7 @@ a:hover {
 /*.carousel-inner*/
 #myCarousel {
     margin-top: 50px;
-    border-bottom: 4px solid #459083;
+    border-bottom: 4px solid #2A292E;
 }
 
 .carousel-inner>.item {}
@@ -226,7 +226,7 @@ a:hover {
 
 .actionPanel {
     padding: 25px 0;
-    background: #459083;
+    background: #2A292E;
 }
 
 .actionPanel h3 {
@@ -234,7 +234,7 @@ a:hover {
 }
 
 .circle {
-    background: #459083;
+    background: #2A292E;
     height: 60px;
     width: 60px;
     border-radius: 35px;
@@ -248,7 +248,7 @@ a:hover {
     padding: 16px 15px;
     line-height: 18px;
     height: 50px;
-    /*color:#459083;*/
+    /*color:#2A292E;*/
     ;
 }
 
@@ -319,7 +319,7 @@ a:hover {
 }
 
 .page-section h2 {
-    color: #459083;
+    color: #2A292E;
 }
 
 .page-section p {
@@ -332,7 +332,7 @@ a:hover {
 }
 
 .darkBg .fa {
-    color: #459083;
+    color: #2A292E;
 }
 
 /*--- Banner ----*/
@@ -491,7 +491,7 @@ a:hover {
 }
 
 .progress .progress-bar {
-    background-color: #459083;
+    background-color: #2A292E;
 }
 
 /*Skills*/
@@ -509,7 +509,7 @@ a:hover {
     position: absolute;
     content: " ";
     width: 2px;
-    background-color: #777781;
+    background-color: #2A292E;
     left: 50%;
     margin-left: -1.5px;
 }
@@ -529,7 +529,7 @@ a:hover {
     top: 20px;
     left: 50%;
     margin-left: -25px;
-    background-color: #459083;
+    background-color: #2A292E;
     z-index: 36;
     border-top-right-radius: 50%;
     border-top-left-radius: 50%;
@@ -558,7 +558,7 @@ a:hover {
 }
 
 #timeline .timeline-badge.timeline-filter-movement a span {
-    color: #459083;
+    color: #2A292E;
     font-size: 1.3em;
     top: -1px;
 }
@@ -573,14 +573,14 @@ a:hover {
 }
 
 #timeline .timeline-badge.timeline-future-movement a span {
-    color: #459083;
+    color: #2A292E;
     font-size: .9em;
     top: 2px;
     left: 1px;
 }
 
 #timeline .timeline-movement {
-    border-bottom: dashed 1px #459083;
+    border-bottom: dashed 1px #2A292E;
     position: relative;
 }
 
@@ -676,7 +676,7 @@ a:hover {
 .team-member .member-img img {
     max-width: 250px;
     margin: 0 auto;
-    border: 1px solid #459083;
+    border: 1px solid #2A292E;
 }
 
 .team-member h4 {
@@ -762,12 +762,12 @@ nav#filter li {
 nav#filter a {
     padding: 4px 12px;
     line-height: 20px;
-    border: 1px solid #459083;
+    border: 1px solid #2A292E;
     text-decoration: none;
 }
 
 .current {
-    background: #459083;
+    background: #2A292E;
     color: #fff;
 }
 
